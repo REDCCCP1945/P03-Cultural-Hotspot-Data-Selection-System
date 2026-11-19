@@ -1,0 +1,13 @@
+{
+  "name": "cultural-creative-hotspot-selection",
+  "version": "1.0.0",
+  "private": true,
+  "description": "基于全网大数据的文创热点分析与智能选品系统V1.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
